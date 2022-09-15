@@ -3,9 +3,11 @@
 Machine Learning Engineer with an experience in Computer Vision.
 
 Main areas of interest:
-- Image processing
+- Machine Learning
 - Deep Learning
-- Classical machine learning
+- Computer Vision
+
+
 
 Tech stack:
 
